@@ -22,9 +22,14 @@
 
 ###
 
-<p align="left">I'm Chung-yu from Taiwan, currently graduated from the United States.<br><br>- 🔭 I’m working as a Software Engineer.<br>- 📚 I'm currently learning advanced machine learning and cloud technologies.<br>- ⚡ In my free time, I enjoy photography and exploring new cultures.</p>
+<p align="left">I'm Chung-yu from Taiwan, recently graduated with a degree in Computer Science from the United States. My academic background has equipped me with strong foundations in algorithms, software development, and systems design. I am currently working as a Software Engineer, where I focus on building scalable applications and leveraging modern technologies.<br><br>
+- 🔭 I have a strong interest in **data analysis**, **cloud computing**, and **AI-driven applications**, continuously exploring new advancements in these fields.<br>
+- 🌱 I’m actively learning advanced **machine learning**, **cloud architecture**, and **software engineering best practices** to further develop my technical skills.<br>
+- 🌍 I enjoy exploring different cultures and languages, and I speak Mandarin, Japanese, and English fluently.<br>
+- ⚡ In my free time, I love **photography**, **hiking**, and experimenting with **new tech** in personal projects, including gaming and web development.<br>
+- 💡 I am passionate about **open-source contributions** and always looking for opportunities to collaborate on impactful projects within the developer community.</p>
 
-###
+
 ###
 
 <div align="center">
