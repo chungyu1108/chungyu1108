@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Chung-yu from Taiwan, currently studying in the United States.<br><br>- 🔭 I’m working as a Software Engineer.<br>- 📚 I'm currently learning advanced machine learning and cloud technologies.<br>- ⚡ In my free time, I enjoy photography and exploring new cultures.</p>
+<p align="left">I'm Chung-yu from Taiwan, currently graduated from the United States.<br><br>- 🔭 I’m working as a Software Engineer.<br>- 📚 I'm currently learning advanced machine learning and cloud technologies.<br>- ⚡ In my free time, I enjoy photography and exploring new cultures.</p>
 
 ###
 ###
