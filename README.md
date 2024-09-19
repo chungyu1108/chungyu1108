@@ -61,8 +61,6 @@
   <a href="https://discord.com/users/828155335532740610"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
 </div>
 
-###
-<br clear="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl3dW1pcHB0ODRwa2Rmazlmc2tuajh4OWN6eDN0YXdlbW4xeXRlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)">
 
 ###
 
