@@ -62,6 +62,6 @@
 </div>
 
 ###
-<br clear="[both](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl3dW1pcHB0ODRwa2Rmazlmc2tuajh4OWN6eDN0YXdlbW4xeXRlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)">
+<br clear="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl3dW1pcHB0ODRwa2Rmazlmc2tuajh4OWN6eDN0YXdlbW4xeXRlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)">
 
 ###
