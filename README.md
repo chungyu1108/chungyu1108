@@ -87,10 +87,11 @@
 ###
 
 ## 📊 GitHub Stats:
-![Yang's GitHub stats](https://github-readme-stats.vercel.app/api?chungyu1108=anuraghazra&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chungyu1108&theme=radical&hide_border=false)
+![Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chungyu1108&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chungyu1108&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
+
 
 
 ## 🏆 GitHub Trophies
