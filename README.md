@@ -98,7 +98,8 @@
 <!--START_SECTION:waka-->
 ![](https://github-profile-trophy.vercel.app/?username=Chungyu1108&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
+<details>
+  <summary><b>⛎ My Pet</b></summary>
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chungyu1108/chungyu1108/output/github-contribution-grid-snake-dark.svg">
