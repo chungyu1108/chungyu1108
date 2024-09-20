@@ -72,11 +72,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
 </p>
-<div>
-  <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp,java,python,php" alt="My Skills" />
-  </a>
-</div>
+
 
 
 ###
