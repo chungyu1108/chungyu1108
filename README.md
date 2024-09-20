@@ -39,6 +39,7 @@
 ###
 
 # 🖥️ Technical Skills: 
+<summary><b>Skills</b></summary>
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
