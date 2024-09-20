@@ -87,8 +87,7 @@
 ###
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chungyu1108&theme=radical&border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chungyu1108&theme=radical&hide_border=false)
+
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
 
