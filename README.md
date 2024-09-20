@@ -96,7 +96,7 @@
 
 
 <!--START_SECTION:waka-->
-![](https://github-profile-trophy.vercel.app/?username=Chungyu1108&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=chungyu1108&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 
 
