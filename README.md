@@ -91,6 +91,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chungyu1108&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
