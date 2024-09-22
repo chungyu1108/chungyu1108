@@ -11,7 +11,7 @@
 
 ###
 
-<h1 align="center">Hey is Yang here 👋</h1>
+<h1 align="center">Hi is Yang here 👋</h1>
 
 ###
 
