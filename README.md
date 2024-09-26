@@ -99,5 +99,7 @@
 <!--START_SECTION:waka-->
 ![](https://github-profile-trophy.vercel.app/?username=chungyu1108&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
